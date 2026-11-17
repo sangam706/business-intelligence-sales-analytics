@@ -1,0 +1,31 @@
+#python
+__pychache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupiter
+.ipynb_checkpoints/
+
+#Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+ #Tempory files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+#IDE
+.vscode/
+.idea/
+
+#Database backups
+*sql.bak
+*.dump
+
+#Tempory exports
+~$*.xlsx

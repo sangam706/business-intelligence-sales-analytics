@@ -1,0 +1,101 @@
+CustomerID,CustomerName,Region,CustomerSegment
+1,Customer_001,North,Small Business
+2,Customer_002,West,Consumer
+3,Customer_003,East,Small Business
+4,Customer_004,South,Consumer
+5,Customer_005,South,Small Business
+6,Customer_006,West,Small Business
+7,Customer_007,North,Small Business
+8,Customer_008,East,corporate
+9,Customer_009,North,corporate
+10,Customer_010,North,Small Business
+11,Customer_011,East,Consumer
+12,Customer_012,West,Small Business
+13,Customer_013,East,corporate
+14,Customer_014,West,corporate
+15,Customer_015,East,corporate
+16,Customer_016,West,corporate
+17,Customer_017,East,Consumer
+18,Customer_018,North,Consumer
+19,Customer_019,West,Consumer
+20,Customer_020,South,Consumer
+21,Customer_021,East,corporate
+22,Customer_022,South,Small Business
+23,Customer_023,North,corporate
+24,Customer_024,West,corporate
+25,Customer_025,West,Small Business
+26,Customer_026,East,corporate
+27,Customer_027,South,Consumer
+28,Customer_028,West,Small Business
+29,Customer_029,East,corporate
+30,Customer_030,South,corporate
+31,Customer_031,South,corporate
+32,Customer_032,North,corporate
+33,Customer_033,North,Consumer
+34,Customer_034,East,corporate
+35,Customer_035,West,Small Business
+36,Customer_036,North,Consumer
+37,Customer_037,West,corporate
+38,Customer_038,West,Consumer
+39,Customer_039,South,corporate
+40,Customer_040,East,corporate
+41,Customer_041,North,Small Business
+42,Customer_042,West,Consumer
+43,Customer_043,East,Consumer
+44,Customer_044,South,corporate
+45,Customer_045,North,Small Business
+46,Customer_046,West,Small Business
+47,Customer_047,South,Consumer
+48,Customer_048,West,Consumer
+49,Customer_049,East,Small Business
+50,Customer_050,West,Consumer
+51,Customer_051,West,Small Business
+52,Customer_052,North,Consumer
+53,Customer_053,South,Small Business
+54,Customer_054,South,Consumer
+55,Customer_055,South,corporate
+56,Customer_056,North,corporate
+57,Customer_057,East,Consumer
+58,Customer_058,North,corporate
+59,Customer_059,East,corporate
+60,Customer_060,East,Small Business
+61,Customer_061,West,Small Business
+62,Customer_062,East,corporate
+63,Customer_063,South,corporate
+64,Customer_064,West,corporate
+65,Customer_065,South,corporate
+66,Customer_066,South,Small Business
+67,Customer_067,West,Consumer
+68,Customer_068,South,Consumer
+69,Customer_069,North,corporate
+70,Customer_070,South,Consumer
+71,Customer_071,West,Consumer
+72,Customer_072,North,Consumer
+73,Customer_073,South,Small Business
+74,Customer_074,North,Small Business
+75,Customer_075,East,Small Business
+76,Customer_076,South,corporate
+77,Customer_077,South,Small Business
+78,Customer_078,North,Consumer
+79,Customer_079,East,Small Business
+80,Customer_080,East,corporate
+81,Customer_081,West,Small Business
+82,Customer_082,South,Consumer
+83,Customer_083,North,corporate
+84,Customer_084,West,Small Business
+85,Customer_085,East,corporate
+86,Customer_086,East,corporate
+87,Customer_087,North,Consumer
+88,Customer_088,South,corporate
+89,Customer_089,West,Consumer
+90,Customer_090,West,Consumer
+91,Customer_091,South,Small Business
+92,Customer_092,West,corporate
+93,Customer_093,West,corporate
+94,Customer_094,South,corporate
+95,Customer_095,West,Small Business
+96,Customer_096,South,Consumer
+97,Customer_097,North,corporate
+98,Customer_098,East,Consumer
+99,Customer_099,East,corporate
+100,Customer_100,North,Small Business
